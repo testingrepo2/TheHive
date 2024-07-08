@@ -98,7 +98,7 @@ TheHive can be configured to import events from one or multiple [MISP](http://ww
 TheHive Project provides [DigitalShadows2TH](https://github.com/TheHive-Project/DigitalShadows2TH), a free, open source [Digital Shadows](https://www.digitalshadows.com/) alert feeder for TheHive. You can use it to import Digital Shadows *incidents* and *intel-incidents* as alerts in TheHive, where they can be previewed and transformed into new cases using pre-defined incident response templates or added into existing ones.
 
 ### Integration with Zerofox
-[Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) is a free, open source [ZeroFOX](https://www.zerofox.com/) alert feeder for TheHive, written by TheHive Project. You can use it to feed ZeroFOX alerts into TheHive, where they can be previewed and transformed into new cases using pre-defined incident response templates or added into existing ones.
+[Zerofox2TH](https://github.com/TheHive-Project/Zerofox2TH) is a free, open source [ZeroFOX](https://www.zerofox.com/) alert feeder for TheHive, written by TheHive Project. You can use it to feed ZeroFOX alerts into TheHive, where they can be previewed and transformed into new cases using pre-defined incident response templates or added into existing ones. 
 
 ### And many more
 
