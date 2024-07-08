@@ -47,7 +47,7 @@ Security analysts with a knack for scripting can easily add their own analyzers 
 # Try it
 To try TheHive, you can use the [training VM](https://www.strangebee.com/tryit) or install it by reading the [Installation Guide](https://docs.thehive-project.org/thehive/installation-and-configuration/installation/step-by-step-guide/).
 
-# Details
+# Details 
 
 ## Documentation
 We have made several guides available in the [Documentation repository](https://docs.thehive-project.org/thehive/).
